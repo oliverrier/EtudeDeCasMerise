@@ -1,0 +1,5 @@
+ID,Nom,Date de début,Date de fin,Durée,Avancée,Coût,Responsable,Prédécesseurs,Numéro hiérarchique,Ressources,Assignments,Nouvelle tâche,Lien internet,Notes
+0,Présentation de la méthode Merise,07/02/19,07/02/19,1,0,0,,,1,,,,,
+2,MOT Multimax,08/02/19,08/02/19,1,0,0,,0,2,,,,,
+4,MCD/MLD,11/02/19,11/02/19,1,0,0,,0;2,3,,,,,
+5,MPD,12/02/19,12/02/19,1,0,0,,4,4,,,,,
