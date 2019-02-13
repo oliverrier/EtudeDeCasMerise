@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.7)  7 FEB 2019 12:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.7)  13 FEB 2019 23:01
 entering extended mode
 **./presentation-methode-merise.tex
 (presentation-methode-merise.tex
@@ -746,25 +746,12 @@ merinnerthemedefault.sty"
 )
 ("C:\Users\louis_tbixp39\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\bea
 merouterthemedefault.sty")))
-("C:\Users\louis_tbixp39\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fonte
-nc.sty"
-Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
-
-("C:\Users\louis_tbixp39\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc
-.def"
-File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-))
 ("C:\Users\louis_tbixp39\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\input
 enc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks43
 \inpenc@posthook=\toks44
-
-("C:\Users\louis_tbixp39\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\latin
-1.def"
-File: latin1.def 2018/08/11 v1.3c Input encoding file
-))
+)
 ("C:\Users\louis_tbixp39\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\ba
 bel.sty"
 Package: babel 2018/11/13 3.27 The Babel package
@@ -823,7 +810,7 @@ Package babel Info: Making ? an active character on input line 417.
 ("C:\Users\louis_tbixp39\AppData\Local\Programs\MiKTeX 2.9\tex/latex/carlisle\s
 calefnt.sty")
 Package french.ldf Info: No list customisation for the beamer class,
-(french.ldf)             reported on input line 5.
+(french.ldf)             reported on input line 4.
  (presentation-methode-merise.aux)
 \openout1 = `presentation-methode-merise.aux'.
 
@@ -935,37 +922,174 @@ LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 6.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 6.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 6.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 6.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 6.
 LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 6.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 6.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 6.
 LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 6.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 6.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 6.
 LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 6.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 6.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 6.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 6.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 6.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 6.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 6.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/bx/n --> T1/cmss/bx/n on input line 6.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 6.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 6.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 6.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 6.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 6.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 6
+.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
+6.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
+ut line 6.
+
+("C:\Users\louis_tbixp39\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator
+\translator-basic-dictionary-English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
+("C:\Users\louis_tbixp39\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator
+\translator-bibliography-dictionary-English.dict"
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+("C:\Users\louis_tbixp39\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator
+\translator-environment-dictionary-English.dict"
+Dictionary: translator-environment-dictionary, Language: English 
+)
+("C:\Users\louis_tbixp39\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator
+\translator-months-dictionary-English.dict"
+Dictionary: translator-months-dictionary, Language: English 
+)
+("C:\Users\louis_tbixp39\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator
+\translator-numbers-dictionary-English.dict"
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+("C:\Users\louis_tbixp39\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator
+\translator-theorem-dictionary-English.dict"
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+LaTeX Info: Redefining \degres on input line 6.
+LaTeX Info: Redefining \dots on input line 6.
+LaTeX Info: Redefining \up on input line 6.
+
+
+Package french.ldf Warning: OT1 encoding should not be used for French.
+(french.ldf)                Add \usepackage[T1]{fontenc} to the preamble
+(french.ldf)                of your document; reported on input line 6.
+
+(presentation-methode-merise.nav)
+
+Package hyperref Warning: Option `pdfauthor' has already been used,
+(hyperref)                setting the option has no effect on input line 12.
+
+[1
+
+{C:/Users/louis_tbixp39/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Try loading font information for U+msa on input line 25.
+
+("C:\Users\louis_tbixp39\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\u
+msa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 25.
+
+("C:\Users\louis_tbixp39\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\u
+msb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
+line 25.
+
+("C:\Users\louis_tbixp39\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sansmathac
+cent\ot1mathkerncmss.fd"
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+) [2
+
+] [3
+
+] [4
+
+] [5
+
+] [6
+
+] [7
+
+] [8
+
+] [9
+
+]
+
+Package hyperref Warning: Option `pdfauthor' has already been used,
+(hyperref)                setting the option has no effect on input line 73.
+
+[10
+
+]
+\tf@nav=\write6
+\openout6 = `presentation-methode-merise.nav'.
+
+\tf@toc=\write7
+\openout7 = `presentation-methode-merise.toc'.
+
+\tf@snm=\write8
+\openout8 = `presentation-methode-merise.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
+ (presentation-methode-merise.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 75.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 75.
+Package rerunfilecheck Info: File `presentation-methode-merise.out' has not cha
+nged.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 18280 strings out of 492946
+ 351200 string characters out of 3122715
+ 436064 words of memory out of 3000000
+ 21750 multiletter control sequences out of 15000+200000
+ 11808 words of font info for 43 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 56i,14n,55p,823b,570s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/louis_tbixp39/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmss10.pfb><C:/Users/louis_tbixp39/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/louis_tbixp39/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/louis
+_tbixp39/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssb
+x10.pfb><C:/Users/louis_tbixp39/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmssi10.pfb><C:/Users/louis_tbixp39/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/louis_tbixp39/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on presentation-methode-merise.pdf (10 pages, 128522 bytes).
+PDF statistics:
+ 300 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+
