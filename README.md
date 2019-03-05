@@ -10,4 +10,12 @@ Le but de cet exercice est de nous permettre de nous familiariser avec la techno
 
 ## Necessité logiciel
 
-Afin de pouvoir consulter le fichiers au format `.asi`, nous vous conseillons d'utiliser le logiciel [Analyse_SI](https://launchpad.net/analysesi)
+Afin de pouvoir consulter le fichiers au format `.asi`, nous vous conseillons d'utiliser le logiciel [Analyse_SI](https://launchpad.net/analysesi).
+
+## MCD
+
+Vous trouverez notre [MCD](./Merise/MCD.asi) ici qui sera à ouvrir avec le logiciel [Analyse_SI](https://launchpad.net/analysesi).
+
+## MOT
+
+Vous trouverez notre [MOT](./Merise/MOT.jpeg) à ouvrir avec un logiciel de type Paint.
